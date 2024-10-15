@@ -24,6 +24,8 @@ Horizontal Line
 
 ```
 code block
+code block
+code block
 ```
 
 [CodeX Academy](https://codex.academy)

@@ -55,12 +55,11 @@ git pull origin main
 
 ### PUSH TO GITHUB FOR THE FIRST TIME
 
-Run these first 2 commands first if not pulling from github:
+Run these first 2 commands first if not pulling from GitHub:
 
-```
-git init
-git remote add origin https://github.com/YourName/YourRepo.git
-```
+- `git init`
+- `git remote add origin https://github.com/YourName/YourRepo.git`
+
 
 ```
 gh auth login
@@ -105,3 +104,5 @@ rm -r .git
    - Sets the origin
 5. `git push --set-upstream origin main`
    - Pushes files to GitHub and makes origin and main the default options
+6. `git branch`
+   - Views the branches
